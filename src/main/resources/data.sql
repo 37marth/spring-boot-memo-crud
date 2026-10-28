@@ -1,0 +1,1 @@
+INSERT INTO MEMO (title, content) VALUES ('테스트 타이틀', '테스트 컨텐츠');
