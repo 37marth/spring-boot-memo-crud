@@ -2,8 +2,6 @@
 
 메모 등록·조회·수정·삭제 API를 구현한 개인 학습 프로젝트입니다.
 
-> 최초 CRUD 코드는 AI 코드 생성 없이 직접 작성했고, 이후 AI의 코드 리뷰를 참고해 직접 수정했습니다. 설정 분리와 README 정리에는 AI의 도움을 받았습니다.
-
 ## 기술 스택
 
 Java 17 · Spring Boot 4.1.2 · Spring MVC · Spring Data JPA · MySQL · Gradle · Lombok
